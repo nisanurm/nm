@@ -10,7 +10,7 @@ The group members are as follows:
 
 ## Installation
 
-##Lore**isum
+##Lorem**ipsum
 list item 1
 list item 2
 
