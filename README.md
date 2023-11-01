@@ -6,6 +6,5 @@ The group members are as follows:
 
 |Name|e-mail|
 |-----|-----|
-
 |Nisanur Manap| nisanurmanap@st.st.st|
 
